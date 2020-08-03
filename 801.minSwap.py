@@ -1,4 +1,5 @@
 import sys
+from typing import List
 class Solution:
     def minSwap(self, A: List[int], B: List[int]) -> int:
         n = len(A)
